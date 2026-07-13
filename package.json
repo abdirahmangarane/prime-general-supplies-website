@@ -1,0 +1,15 @@
+{
+  "name": "prime-general-supplies-website",
+  "version": "1.0.0",
+  "description": "Official website for Prime General Supplies & Services Company (Kismayo, Somalia)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {},
+  "license": "UNLICENSED",
+  "private": true
+}
